@@ -1,0 +1,3 @@
+
+The PageRank algorithm was first proposed to rank web search results, so that more “important” web pages are ranked higher.  It works by considering the number and “importance” of links pointing to a page, to estimate how important that page is. PageRank outputs a probability distribution over all web pages, representing the likelihood that a person randomly surfing the web (randomly clicking on links) would arrive at those pages.
+
